@@ -20,5 +20,8 @@
       "icon": "resources/icon.icns",
       "target": "dmg"
     }
+  },
+  "devDependencies": {
+    "devtron": "^1.2.0"
   }
 }

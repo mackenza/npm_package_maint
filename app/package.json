@@ -7,5 +7,9 @@
   "main": "javascripts/main/index.js",
   "dependencies": {
 
+  },
+  "settings": {
+    "width": 1000,
+    "height": 800
   }
 }
