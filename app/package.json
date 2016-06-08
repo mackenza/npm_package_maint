@@ -1,0 +1,11 @@
+{
+  "name": "NpmPackageMaint",
+  "version": "0.1.0",
+  "description": "NpmPackageMaint application built with Electron",
+  "author": "mackenza",
+  "license": "MIT",
+  "main": "javascripts/main/index.js",
+  "dependencies": {
+
+  }
+}

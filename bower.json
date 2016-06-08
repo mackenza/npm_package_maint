@@ -1,0 +1,21 @@
+{
+  "name": "npm-package-maint",
+  "description": "Desktop application build with Electron",
+  "main": "",
+  "authors": [
+    "mackenza <a.mackenzie@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "vaadin-core-elements": "^1.0.0"
+  }
+}
